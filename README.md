@@ -1,4 +1,4 @@
-# SDL2-CPM-CMake-Example
+# SDL2-CPM-CMake-Example - Mitko Ivanov
 
 ## Summary
 Example on how to import SDL2 via CPM (CMake Package Manager) into a CMake project.
